@@ -1,6 +1,3 @@
-Bilkul! Yahan sirf explanation aur example ke sath ek professional aur clean version diya gaya hai — perfect for GitHub ya LinkedIn post ke liye:
-
----
 
 ## 🔍 **Python Tip: Chained Comparison Operators Simplified**
 
@@ -47,7 +44,3 @@ if 10 < x < 20:
 ---
 
 📌 *Chained comparisons are a simple yet powerful feature in Python that help you write smarter, cleaner code.*
-
---- 
-
-Let me know if you want this in a `README.md` style too!
